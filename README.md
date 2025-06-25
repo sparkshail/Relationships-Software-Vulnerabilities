@@ -1,4 +1,4 @@
-Discovering Emerging Trends and Relationships in Software Vulnerabilities
+# Discovering Emerging Trends and Relationships in Software Vulnerabilities
 Scripts used in Discovering Trends and Relationships of Software Vulnerabilities, along with LDA analysis results and all figures.
 
 Code and results for "Discovery of Evolving Relationships of Software Vulnerabilities", written by Hailey Sparks and Krishnendu Ghosh at the College of Charleston. Published in: 2024 IEEE 6th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA). 
